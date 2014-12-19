@@ -7,6 +7,8 @@
 
 #### How to run the app
 <ul>
+	<li>Download and insall NodeJS <a href="http://nodejs.org/download/">from here</a>.</li>
+	<li>Download and insall MongoDB <a href="http://www.mongodb.org/downloads">from here</a>.</li>
 	<li>Clone the repo in your local pc</li>
 	<li>cd to the repository and do an "npm install"</li>
 	<li>install additional node module that's needed</li>
